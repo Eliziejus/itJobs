@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "name": "Employees",
+        "description": "Employees",
+        "psr-4": {
+            "JobsApp\\": "app"
+        }
+    }
+}

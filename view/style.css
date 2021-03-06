@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+.border{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-family: 'Rubik',sans-serif;
+
+
+}
+table {
+    width: 100%;
+}
+
+table,
+th {
+    border: 2px solid darkblue;
+    border-collapse: collapse;
+    padding: 8px;
+}
+.font{
+    font-size: large;
+}
